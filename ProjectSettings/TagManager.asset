@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - MatchingGame
   - SolidObjects
   - 
   - 
@@ -50,8 +50,17 @@ TagManager:
   - name: Vegetation
     uniqueID: 1938041227
     locked: 0
+  - name: City
+    uniqueID: 2219167565
+    locked: 0
+  - name: Farm
+    uniqueID: 3344754489
+    locked: 0
   - name: Character
     uniqueID: 1043807517
+    locked: 0
+  - name: MatchingGame
+    uniqueID: 3258469955
     locked: 0
   m_RenderingLayers:
   - Default

@@ -1,0 +1,3393 @@
+fileFormatVersion: 2
+guid: 4fb636bf15a204e498c91cf13831f869
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 280025088818643631
+    second: Animalalll(3.0)_0
+  - first:
+      213: -87460296801110198
+    second: Animalalll(3.0)_1
+  - first:
+      213: 1066244386955384654
+    second: Animalalll(3.0)_2
+  - first:
+      213: -1396753889181981174
+    second: Animalalll(3.0)_3
+  - first:
+      213: -9158616346732025835
+    second: Animalalll(3.0)_4
+  - first:
+      213: -2845717853494428663
+    second: Animalalll(3.0)_5
+  - first:
+      213: 3545280467256350197
+    second: Animalalll(3.0)_6
+  - first:
+      213: 7225626805521973310
+    second: Animalalll(3.0)_7
+  - first:
+      213: -5505197931479324276
+    second: Animalalll(3.0)_8
+  - first:
+      213: -6430904620956632786
+    second: Animalalll(3.0)_9
+  - first:
+      213: 3577319816339038444
+    second: Animalalll(3.0)_10
+  - first:
+      213: -2242178856801849629
+    second: Animalalll(3.0)_11
+  - first:
+      213: 6293314571619547333
+    second: Animalalll(3.0)_12
+  - first:
+      213: 3570598297445066127
+    second: Animalalll(3.0)_13
+  - first:
+      213: -6845404904486186164
+    second: Animalalll(3.0)_14
+  - first:
+      213: -3381701481602756679
+    second: Animalalll(3.0)_15
+  - first:
+      213: -8155719934355889598
+    second: Animalalll(3.0)_16
+  - first:
+      213: 2057537539692061667
+    second: Animalalll(3.0)_17
+  - first:
+      213: 1378950372132855846
+    second: Animalalll(3.0)_18
+  - first:
+      213: -5441398558859043968
+    second: Animalalll(3.0)_19
+  - first:
+      213: 7393569889234584568
+    second: Animalalll(3.0)_20
+  - first:
+      213: 1512214251576962887
+    second: Animalalll(3.0)_21
+  - first:
+      213: 1088960516068352196
+    second: Animalalll(3.0)_22
+  - first:
+      213: -6962113161856413594
+    second: Animalalll(3.0)_23
+  - first:
+      213: -659685495204754535
+    second: Animalalll(3.0)_24
+  - first:
+      213: 1090941606234822217
+    second: Animalalll(3.0)_25
+  - first:
+      213: -20972624844858537
+    second: Animalalll(3.0)_26
+  - first:
+      213: -7188499812666937756
+    second: Animalalll(3.0)_27
+  - first:
+      213: -754629777918056745
+    second: Animalalll(3.0)_28
+  - first:
+      213: 8411386683105174534
+    second: Animalalll(3.0)_29
+  - first:
+      213: 3466833099081713427
+    second: Animalalll(3.0)_30
+  - first:
+      213: 4156550565616011845
+    second: Animalalll(3.0)_31
+  - first:
+      213: -2884265001259156094
+    second: Animalalll(3.0)_32
+  - first:
+      213: 7674844318402413564
+    second: Animalalll(3.0)_33
+  - first:
+      213: 7595508325327102753
+    second: Animalalll(3.0)_34
+  - first:
+      213: -1719162751347093614
+    second: Animalalll(3.0)_35
+  - first:
+      213: -2051653473463176118
+    second: Animalalll(3.0)_36
+  - first:
+      213: 147113120667443269
+    second: Animalalll(3.0)_37
+  - first:
+      213: 9183895934775930083
+    second: Animalalll(3.0)_38
+  - first:
+      213: 202554101858248920
+    second: Animalalll(3.0)_39
+  - first:
+      213: 404076569224114399
+    second: Animalalll(3.0)_40
+  - first:
+      213: -3690022944011953745
+    second: Animalalll(3.0)_41
+  - first:
+      213: -4369792965704583017
+    second: Animalalll(3.0)_42
+  - first:
+      213: -3767330061483495354
+    second: Animalalll(3.0)_43
+  - first:
+      213: 6374422104320060859
+    second: Animalalll(3.0)_44
+  - first:
+      213: 1349666241779918054
+    second: Animalalll(3.0)_45
+  - first:
+      213: -6139333400920126502
+    second: Animalalll(3.0)_46
+  - first:
+      213: -4692504778686250280
+    second: Animalalll(3.0)_47
+  - first:
+      213: -6070727465404364767
+    second: Animalalll(3.0)_48
+  - first:
+      213: 3347512976363157995
+    second: Animalalll(3.0)_49
+  - first:
+      213: 4848864101549478441
+    second: Animalalll(3.0)_50
+  - first:
+      213: 5216885369080221553
+    second: Animalalll(3.0)_51
+  - first:
+      213: 3906045502193558105
+    second: Animalalll(3.0)_52
+  - first:
+      213: -3649014089826371098
+    second: Animalalll(3.0)_53
+  - first:
+      213: 2408969198157698779
+    second: Animalalll(3.0)_54
+  - first:
+      213: -1282935740595372933
+    second: Animalalll(3.0)_55
+  - first:
+      213: -5526786353064570198
+    second: Animalalll(3.0)_56
+  - first:
+      213: -4747392270955741410
+    second: Animalalll(3.0)_57
+  - first:
+      213: 4843552174877852807
+    second: Animalalll(3.0)_58
+  - first:
+      213: 8506468610358758377
+    second: Animalalll(3.0)_59
+  - first:
+      213: -2690045864175333248
+    second: Animalalll(3.0)_60
+  - first:
+      213: -3285506226277868312
+    second: Animalalll(3.0)_61
+  - first:
+      213: 4811197644588478333
+    second: Animalalll(3.0)_62
+  - first:
+      213: -8614663236978946098
+    second: Animalalll(3.0)_63
+  - first:
+      213: 4549093572668090758
+    second: Animalalll(3.0)_64
+  - first:
+      213: -4266575454735320525
+    second: Animalalll(3.0)_65
+  - first:
+      213: -5215252350640489457
+    second: Animalalll(3.0)_66
+  - first:
+      213: 1424584311905309062
+    second: Animalalll(3.0)_67
+  - first:
+      213: -2385294965249281452
+    second: Animalalll(3.0)_68
+  - first:
+      213: -9036292265805848060
+    second: Animalalll(3.0)_69
+  - first:
+      213: 3236224810927024769
+    second: Animalalll(3.0)_70
+  - first:
+      213: -329984506182491895
+    second: Animalalll(3.0)_71
+  - first:
+      213: 6390558592295861256
+    second: Animalalll(3.0)_72
+  - first:
+      213: -1995704505792249827
+    second: Animalalll(3.0)_73
+  - first:
+      213: -8174595201967267259
+    second: Animalalll(3.0)_74
+  - first:
+      213: -7193726272027237884
+    second: Animalalll(3.0)_75
+  - first:
+      213: -4454949886423353918
+    second: Animalalll(3.0)_76
+  - first:
+      213: 3622112913952421383
+    second: Animalalll(3.0)_77
+  - first:
+      213: 7778670350549069242
+    second: Animalalll(3.0)_78
+  - first:
+      213: 8676042217188169639
+    second: Animalalll(3.0)_79
+  - first:
+      213: 8683633643457355515
+    second: Animalalll(3.0)_80
+  - first:
+      213: 1173935712143811449
+    second: Animalalll(3.0)_81
+  - first:
+      213: -3472447547020665648
+    second: Animalalll(3.0)_82
+  - first:
+      213: -3671948006419444321
+    second: Animalalll(3.0)_83
+  - first:
+      213: 9115657878325616917
+    second: Animalalll(3.0)_84
+  - first:
+      213: -7630675796733495985
+    second: Animalalll(3.0)_85
+  - first:
+      213: 1573626433413277036
+    second: Animalalll(3.0)_86
+  - first:
+      213: -6656261402253963234
+    second: Animalalll(3.0)_87
+  - first:
+      213: -463146157181532968
+    second: Animalalll(3.0)_88
+  - first:
+      213: 610762518702784228
+    second: Animalalll(3.0)_89
+  - first:
+      213: 212674096221313619
+    second: Animalalll(3.0)_90
+  - first:
+      213: 4738408920104729021
+    second: Animalalll(3.0)_91
+  - first:
+      213: -1023025783294539566
+    second: Animalalll(3.0)_92
+  - first:
+      213: -5110209350958837827
+    second: Animalalll(3.0)_93
+  - first:
+      213: -706979429645259607
+    second: Animalalll(3.0)_94
+  - first:
+      213: -8823608735365555332
+    second: Animalalll(3.0)_95
+  - first:
+      213: 4004209354409095315
+    second: Animalalll(3.0)_96
+  - first:
+      213: -4294305188786818355
+    second: Animalalll(3.0)_97
+  - first:
+      213: 6795800799425247037
+    second: Animalalll(3.0)_98
+  - first:
+      213: -2178040107845285972
+    second: Animalalll(3.0)_99
+  - first:
+      213: -7718289159625142003
+    second: Animalalll(3.0)_100
+  - first:
+      213: -7337051181000587854
+    second: Animalalll(3.0)_101
+  - first:
+      213: -3935961478369907471
+    second: Animalalll(3.0)_102
+  - first:
+      213: -7415455109257784007
+    second: Animalalll(3.0)_103
+  - first:
+      213: 2554550977000209564
+    second: Animalalll(3.0)_104
+  - first:
+      213: -7459471394249493902
+    second: Animalalll(3.0)_105
+  - first:
+      213: -2229658887894410380
+    second: Animalalll(3.0)_106
+  - first:
+      213: 490209708798437524
+    second: Animalalll(3.0)_107
+  - first:
+      213: -7414746968454453989
+    second: Animalalll(3.0)_108
+  - first:
+      213: -5476524385664854212
+    second: Animalalll(3.0)_109
+  - first:
+      213: 4725109050222425187
+    second: Animalalll(3.0)_110
+  - first:
+      213: 3167457763298333919
+    second: Animalalll(3.0)_111
+  - first:
+      213: -3542301996441826700
+    second: Animalalll(3.0)_112
+  - first:
+      213: 673902310319446679
+    second: Animalalll(3.0)_113
+  - first:
+      213: 1533451083019559695
+    second: Animalalll(3.0)_114
+  - first:
+      213: -1509113078242079832
+    second: Animalalll(3.0)_115
+  - first:
+      213: 3782898816603750876
+    second: Animalalll(3.0)_116
+  - first:
+      213: 325064366214409600
+    second: Animalalll(3.0)_117
+  - first:
+      213: 2950854892393833488
+    second: Animalalll(3.0)_118
+  - first:
+      213: 8465805425565985199
+    second: Animalalll(3.0)_119
+  - first:
+      213: -8996605957423749798
+    second: Animalalll(3.0)_120
+  - first:
+      213: 1420937850608324138
+    second: Animalalll(3.0)_121
+  - first:
+      213: -1701887341228788431
+    second: Animalalll(3.0)_122
+  - first:
+      213: 4689689808691961325
+    second: Animalalll(3.0)_123
+  - first:
+      213: 5683136169001419264
+    second: Animalalll(3.0)_124
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animalalll(3.0)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 767
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa28b3ba559d2e300800000000000000
+      internalID: 280025088818643631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 767
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47383dc25749cef0800000000000000
+      internalID: -87460296801110198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 767
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47da38ee9f0cce00800000000000000
+      internalID: 1066244386955384654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 767
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a9a4fcbbbd9ce0800000000000000
+      internalID: -1396753889181981174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 767
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a3f205fe06e080800000000000000
+      internalID: -9158616346732025835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 767
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c3a7380baf188d0800000000000000
+      internalID: -2845717853494428663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 735
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f512ff1dcd533130800000000000000
+      internalID: 3545280467256350197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 735
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e308daeeb45964460800000000000000
+      internalID: 7225626805521973310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 735
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a5fb26ab9993b0800000000000000
+      internalID: -5505197931479324276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 735
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e293673d156d0c6a0800000000000000
+      internalID: -6430904620956632786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 735
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0aad46b6135a130800000000000000
+      internalID: 3577319816339038444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 703
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee2f65953e22e0e0800000000000000
+      internalID: -2242178856801849629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 703
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83c2d6248565750800000000000000
+      internalID: 6293314571619547333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 703
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e3d2db305d8130800000000000000
+      internalID: 3570598297445066127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 703
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435264028c3001a0800000000000000
+      internalID: -6845404904486186164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 703
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc7a46b68c111d0800000000000000
+      internalID: -3381701481602756679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 703
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24225293eef01de80800000000000000
+      internalID: -8155719934355889598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 671
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36065bd77dd8c10800000000000000
+      internalID: 2057537539692061667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 671
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6202fd5be04032310800000000000000
+      internalID: 1378950372132855846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 671
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b52e927d44c74b0800000000000000
+      internalID: -5441398558859043968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 671
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f30ad534ac3b9660800000000000000
+      internalID: 7393569889234584568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 639
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f278989d67cf410800000000000000
+      internalID: 1512214251576962887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 639
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c02eaed1d3cc1f00800000000000000
+      internalID: 1088960516068352196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_23
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 639
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601a7557fa916f90800000000000000
+      internalID: -6962113161856413594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 639
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bc7da898358d6f0800000000000000
+      internalID: -659685495204754535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 607
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946125e5c9dc32f00800000000000000
+      internalID: 1090941606234822217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 607
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b5d12428d75bff0800000000000000
+      internalID: -20972624844858537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 607
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e6606b1815d3c90800000000000000
+      internalID: -7188499812666937756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 607
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6234617340785f0800000000000000
+      internalID: -754629777918056745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 607
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6046fe27f9f3bb470800000000000000
+      internalID: 8411386683105174534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_30
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 607
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170556e55aac1030800000000000000
+      internalID: 3466833099081713427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 575
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54acd7297b80fa930800000000000000
+      internalID: 4156550565616011845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 575
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d3bd9434809f7d0800000000000000
+      internalID: -2884265001259156094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 575
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf30dc89e36828a60800000000000000
+      internalID: 7674844318402413564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 575
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e4a3449aa86960800000000000000
+      internalID: 7595508325327102753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_35
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 575
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f8fde069e4428e0800000000000000
+      internalID: -1719162751347093614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 575
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44f70839001783e0800000000000000
+      internalID: -2051653473463176118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ae239a96aa0200800000000000000
+      internalID: 147113120667443269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec297eb1b0c37f70800000000000000
+      internalID: 9183895934775930083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 543
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d82f09e1ed9fc200800000000000000
+      internalID: 202554101858248920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 543
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd079a2bf719b9500800000000000000
+      internalID: 404076569224114399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa95029dea76accc0800000000000000
+      internalID: -3690022944011953745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_42
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7987d2923706b53c0800000000000000
+      internalID: -4369792965704583017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 511
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64030ade441c7bbc0800000000000000
+      internalID: -3767330061483495354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_44
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 511
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd2568712f767850800000000000000
+      internalID: 6374422104320060859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4e0aacb4afab210800000000000000
+      internalID: 1349666241779918054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_46
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 479
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0778acc4bccaa0800000000000000
+      internalID: -6139333400920126502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 479
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2459704cfd0eeb0800000000000000
+      internalID: -4692504778686250280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 479
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1288d58c88170cba0800000000000000
+      internalID: -6070727465404364767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_49
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 479
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f22de051c47e20800000000000000
+      internalID: 3347512976363157995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 479
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9221001c530aa4340800000000000000
+      internalID: 4848864101549478441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 447
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f85f95a99166840800000000000000
+      internalID: 5216885369080221553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 447
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95262ca60bf053630800000000000000
+      internalID: 3906045502193558105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 447
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9f083c4091c5dc0800000000000000
+      internalID: -3649014089826371098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 447
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd61c03f8b06e6120800000000000000
+      internalID: 2408969198157698779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 447
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf820cdb8123ee0800000000000000
+      internalID: -1282935740595372933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 447
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa21c141819ec43b0800000000000000
+      internalID: -5526786353064570198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7f30e1efdd1eb0800000000000000
+      internalID: -4747392270955741410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_58
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 415
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844aa27a01c73340800000000000000
+      internalID: 4843552174877852807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 415
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc175c12c0d0670800000000000000
+      internalID: 8506468610358758377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_60
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 415
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080125cf9890baad0800000000000000
+      internalID: -2690045864175333248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec9f5b9e798762d0800000000000000
+      internalID: -3285506226277868312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_62
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f64e554cec4c240800000000000000
+      internalID: 4811197644588478333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_63
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 383
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc04cad61927880800000000000000
+      internalID: -8614663236978946098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689e4e09080a12f30800000000000000
+      internalID: 4549093572668090758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_65
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 383
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab91daa341ac4c0800000000000000
+      internalID: -4266575454735320525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_66
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 383
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7d026e93bf97b0800000000000000
+      internalID: -5215252350640489457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_67
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 351
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681d5b742e325c310800000000000000
+      internalID: 1424584311905309062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_68
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 351
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452f9cfeddab5eed0800000000000000
+      internalID: -2385294965249281452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 351
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40268028f04a89280800000000000000
+      internalID: -9036292265805848060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 351
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a6c9cb15169ec20800000000000000
+      internalID: 3236224810927024769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 351
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012c9707d8ab6bf0800000000000000
+      internalID: -329984506182491895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 351
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c7d1a5e23dfa850800000000000000
+      internalID: 6390558592295861256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 319
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d104b9f5355dd44e0800000000000000
+      internalID: -1995704505792249827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_74
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 319
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e02489f00e8e80800000000000000
+      internalID: -8174595201967267259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 319
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402eb60d110ca2c90800000000000000
+      internalID: -7193726272027237884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_76
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 319
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5b19f7ea6dc22c0800000000000000
+      internalID: -4454949886423353918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 319
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063d742184544230800000000000000
+      internalID: 3622112913952421383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_78
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 319
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd275d787363fb60800000000000000
+      internalID: 7778670350549069242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71bcbcd6e776870800000000000000
+      internalID: 8676042217188169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_80
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe18e57ac6728870800000000000000
+      internalID: 8683633643457355515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9732a777f48aa4010800000000000000
+      internalID: 1173935712143811449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_82
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc18a29a536fcfc0800000000000000
+      internalID: -3472447547020665648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_83
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 255
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4aa33ebe9a0dc0800000000000000
+      internalID: -3671948006419444321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 255
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511e6932b82518e70800000000000000
+      internalID: 9115657878325616917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_85
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 255
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45778bbac46a1690800000000000000
+      internalID: -7630675796733495985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_86
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 255
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6563cc57e4a6d510800000000000000
+      internalID: 1573626433413277036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_87
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 255
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e105282658530a3a0800000000000000
+      internalID: -6656261402253963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_88
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 255
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48b1e16039299f0800000000000000
+      internalID: -463146157181532968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eef669564dd97800800000000000000
+      internalID: 610762518702784228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_90
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad236b6f193f200800000000000000
+      internalID: 212674096221313619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db97263cec532c140800000000000000
+      internalID: 4738408920104729021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c9a6687b7dc1f0800000000000000
+      internalID: -1023025783294539566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf083c9ba3e419b0800000000000000
+      internalID: -5110209350958837827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_94
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 223
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac6c7854fd4036f0800000000000000
+      internalID: -706979429645259607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b908bca9e3c8580800000000000000
+      internalID: -8823608735365555332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b9df413fc19730800000000000000
+      internalID: 4004209354409095315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_97
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2be39de209764c0800000000000000
+      internalID: -4294305188786818355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 191
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37be0642d88f4e50800000000000000
+      internalID: 6795800799425247037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_99
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca70459cf0c06c1e0800000000000000
+      internalID: -2178040107845285972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_100
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 191
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d019bce07e023e490800000000000000
+      internalID: -7718289159625142003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5899103de8d2a90800000000000000
+      internalID: -7337051181000587854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_102
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 159
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce32893e7a069c0800000000000000
+      internalID: -3935961478369907471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 159
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93595dcedd2071990800000000000000
+      internalID: -7415455109257784007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_104
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 159
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c79b83496937320800000000000000
+      internalID: 2554550977000209564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 159
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2723295f942aa7890800000000000000
+      internalID: -7459471394249493902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 159
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bd2c00e09ae01e0800000000000000
+      internalID: -2229658887894410380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 111
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e06602239dc600800000000000000
+      internalID: 490209708798437524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 111
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152eddcae6891990800000000000000
+      internalID: -7414746968454453989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_109
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379eac461a7ff3b0800000000000000
+      internalID: -5476524385664854212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 111
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364bd7f75a5f29140800000000000000
+      internalID: 4725109050222425187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 111
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd45376cd0215fb20800000000000000
+      internalID: 3167457763298333919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_112
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 111
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a8de62a1737dec0800000000000000
+      internalID: -3542301996441826700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_113
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad7eba49e2a5900800000000000000
+      internalID: 673902310319446679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_114
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 79
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a1dba2a9e74510800000000000000
+      internalID: 1533451083019559695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_115
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab0c75a6ad8e0be0800000000000000
+      internalID: -1509113078242079832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 79
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd189e85e6e8f7430800000000000000
+      internalID: 3782898816603750876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_117
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 79
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08de85d915cd28400800000000000000
+      internalID: 325064366214409600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_118
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014abdce3ea83f820800000000000000
+      internalID: 2950854892393833488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa96f684e259c7570800000000000000
+      internalID: 8465805425565985199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 47
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55289b3c82a52380800000000000000
+      internalID: -8996605957423749798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e8a69527f28b310800000000000000
+      internalID: 1420937850608324138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135f25aea7ea168e0800000000000000
+      internalID: -1701887341228788431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_123
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 47
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded9ad1b800251140800000000000000
+      internalID: 4689689808691961325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animalalll(3.0)_124
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00201833c3e8ede40800000000000000
+      internalID: 5683136169001419264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Animalalll(3.0)_0: 280025088818643631
+      Animalalll(3.0)_1: -87460296801110198
+      Animalalll(3.0)_10: 3577319816339038444
+      Animalalll(3.0)_100: -7718289159625142003
+      Animalalll(3.0)_101: -7337051181000587854
+      Animalalll(3.0)_102: -3935961478369907471
+      Animalalll(3.0)_103: -7415455109257784007
+      Animalalll(3.0)_104: 2554550977000209564
+      Animalalll(3.0)_105: -7459471394249493902
+      Animalalll(3.0)_106: -2229658887894410380
+      Animalalll(3.0)_107: 490209708798437524
+      Animalalll(3.0)_108: -7414746968454453989
+      Animalalll(3.0)_109: -5476524385664854212
+      Animalalll(3.0)_11: -2242178856801849629
+      Animalalll(3.0)_110: 4725109050222425187
+      Animalalll(3.0)_111: 3167457763298333919
+      Animalalll(3.0)_112: -3542301996441826700
+      Animalalll(3.0)_113: 673902310319446679
+      Animalalll(3.0)_114: 1533451083019559695
+      Animalalll(3.0)_115: -1509113078242079832
+      Animalalll(3.0)_116: 3782898816603750876
+      Animalalll(3.0)_117: 325064366214409600
+      Animalalll(3.0)_118: 2950854892393833488
+      Animalalll(3.0)_119: 8465805425565985199
+      Animalalll(3.0)_12: 6293314571619547333
+      Animalalll(3.0)_120: -8996605957423749798
+      Animalalll(3.0)_121: 1420937850608324138
+      Animalalll(3.0)_122: -1701887341228788431
+      Animalalll(3.0)_123: 4689689808691961325
+      Animalalll(3.0)_124: 5683136169001419264
+      Animalalll(3.0)_13: 3570598297445066127
+      Animalalll(3.0)_14: -6845404904486186164
+      Animalalll(3.0)_15: -3381701481602756679
+      Animalalll(3.0)_16: -8155719934355889598
+      Animalalll(3.0)_17: 2057537539692061667
+      Animalalll(3.0)_18: 1378950372132855846
+      Animalalll(3.0)_19: -5441398558859043968
+      Animalalll(3.0)_2: 1066244386955384654
+      Animalalll(3.0)_20: 7393569889234584568
+      Animalalll(3.0)_21: 1512214251576962887
+      Animalalll(3.0)_22: 1088960516068352196
+      Animalalll(3.0)_23: -6962113161856413594
+      Animalalll(3.0)_24: -659685495204754535
+      Animalalll(3.0)_25: 1090941606234822217
+      Animalalll(3.0)_26: -20972624844858537
+      Animalalll(3.0)_27: -7188499812666937756
+      Animalalll(3.0)_28: -754629777918056745
+      Animalalll(3.0)_29: 8411386683105174534
+      Animalalll(3.0)_3: -1396753889181981174
+      Animalalll(3.0)_30: 3466833099081713427
+      Animalalll(3.0)_31: 4156550565616011845
+      Animalalll(3.0)_32: -2884265001259156094
+      Animalalll(3.0)_33: 7674844318402413564
+      Animalalll(3.0)_34: 7595508325327102753
+      Animalalll(3.0)_35: -1719162751347093614
+      Animalalll(3.0)_36: -2051653473463176118
+      Animalalll(3.0)_37: 147113120667443269
+      Animalalll(3.0)_38: 9183895934775930083
+      Animalalll(3.0)_39: 202554101858248920
+      Animalalll(3.0)_4: -9158616346732025835
+      Animalalll(3.0)_40: 404076569224114399
+      Animalalll(3.0)_41: -3690022944011953745
+      Animalalll(3.0)_42: -4369792965704583017
+      Animalalll(3.0)_43: -3767330061483495354
+      Animalalll(3.0)_44: 6374422104320060859
+      Animalalll(3.0)_45: 1349666241779918054
+      Animalalll(3.0)_46: -6139333400920126502
+      Animalalll(3.0)_47: -4692504778686250280
+      Animalalll(3.0)_48: -6070727465404364767
+      Animalalll(3.0)_49: 3347512976363157995
+      Animalalll(3.0)_5: -2845717853494428663
+      Animalalll(3.0)_50: 4848864101549478441
+      Animalalll(3.0)_51: 5216885369080221553
+      Animalalll(3.0)_52: 3906045502193558105
+      Animalalll(3.0)_53: -3649014089826371098
+      Animalalll(3.0)_54: 2408969198157698779
+      Animalalll(3.0)_55: -1282935740595372933
+      Animalalll(3.0)_56: -5526786353064570198
+      Animalalll(3.0)_57: -4747392270955741410
+      Animalalll(3.0)_58: 4843552174877852807
+      Animalalll(3.0)_59: 8506468610358758377
+      Animalalll(3.0)_6: 3545280467256350197
+      Animalalll(3.0)_60: -2690045864175333248
+      Animalalll(3.0)_61: -3285506226277868312
+      Animalalll(3.0)_62: 4811197644588478333
+      Animalalll(3.0)_63: -8614663236978946098
+      Animalalll(3.0)_64: 4549093572668090758
+      Animalalll(3.0)_65: -4266575454735320525
+      Animalalll(3.0)_66: -5215252350640489457
+      Animalalll(3.0)_67: 1424584311905309062
+      Animalalll(3.0)_68: -2385294965249281452
+      Animalalll(3.0)_69: -9036292265805848060
+      Animalalll(3.0)_7: 7225626805521973310
+      Animalalll(3.0)_70: 3236224810927024769
+      Animalalll(3.0)_71: -329984506182491895
+      Animalalll(3.0)_72: 6390558592295861256
+      Animalalll(3.0)_73: -1995704505792249827
+      Animalalll(3.0)_74: -8174595201967267259
+      Animalalll(3.0)_75: -7193726272027237884
+      Animalalll(3.0)_76: -4454949886423353918
+      Animalalll(3.0)_77: 3622112913952421383
+      Animalalll(3.0)_78: 7778670350549069242
+      Animalalll(3.0)_79: 8676042217188169639
+      Animalalll(3.0)_8: -5505197931479324276
+      Animalalll(3.0)_80: 8683633643457355515
+      Animalalll(3.0)_81: 1173935712143811449
+      Animalalll(3.0)_82: -3472447547020665648
+      Animalalll(3.0)_83: -3671948006419444321
+      Animalalll(3.0)_84: 9115657878325616917
+      Animalalll(3.0)_85: -7630675796733495985
+      Animalalll(3.0)_86: 1573626433413277036
+      Animalalll(3.0)_87: -6656261402253963234
+      Animalalll(3.0)_88: -463146157181532968
+      Animalalll(3.0)_89: 610762518702784228
+      Animalalll(3.0)_9: -6430904620956632786
+      Animalalll(3.0)_90: 212674096221313619
+      Animalalll(3.0)_91: 4738408920104729021
+      Animalalll(3.0)_92: -1023025783294539566
+      Animalalll(3.0)_93: -5110209350958837827
+      Animalalll(3.0)_94: -706979429645259607
+      Animalalll(3.0)_95: -8823608735365555332
+      Animalalll(3.0)_96: 4004209354409095315
+      Animalalll(3.0)_97: -4294305188786818355
+      Animalalll(3.0)_98: 6795800799425247037
+      Animalalll(3.0)_99: -2178040107845285972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

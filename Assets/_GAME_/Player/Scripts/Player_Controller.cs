@@ -89,7 +89,6 @@ public class Player_Controller : MonoBehaviour
                 _facingDirection = Directions.Down;
             }
         }
-        print(_facingDirection);
     }
     private void UpdateAnimation() {
         if (_facingDirection == Directions.Left)
